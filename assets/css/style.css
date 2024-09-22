@@ -1,0 +1,7 @@
+/* Custom Plugin Styles */
+.my-plugin-container {
+    background-color: #f5f5f5;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
