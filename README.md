@@ -1,44 +1,43 @@
 # Attendance Plugin
 
-A WordPress plugin developed by Mehak Singh to manage employee attendance and details. This plugin allows you to add, edit, and view employee information, as well as mark their attendance.
+![Attendance Plugin](https://img.shields.io/badge/Version-1.0-blue)
+![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-brightgreen)
+
+## Description
+
+The Attendance Plugin allows you to manage employee attendance efficiently. It features functionalities for adding, editing, and viewing employee records, as well as marking attendance and calculating salaries based on attendance records.
 
 ## Features
 
-- Add new employees with details such as name, position, date of birth, salary, and contact information.
-- Edit existing employee details, including the option to upload a photo using the WordPress media uploader.
-- Mark attendance for employees and view attendance records.
-- All data is stored in a custom database table.
+- Manage employee details
+- Mark attendance with options for 'Present', 'Absent', and 'Half Day'
+- View attendance records
+- Calculate total salaries and deductions
 
 ## Installation
 
-1. Download the plugin zip file.
-2. Go to your WordPress admin panel.
-3. Navigate to `Plugins > Add New`.
-4. Click on `Upload Plugin` and select the downloaded zip file.
-5. Activate the plugin after installation.
+1. Download the Attendance plugin.
+2. Upload the `attendance` folder to the `/wp-content/plugins/` directory.
+3. Activate the Attendance plugin through the 'Plugins' menu in WordPress.
+4. Configure settings as needed.
 
 ## Usage
 
-- After activation, you will find an "Attendance" menu in the WordPress admin sidebar.
-- Use the submenu items to manage employees and attendance:
-  - **Employees**: View a list of all employees and edit their details.
-  - **Add New Employee**: Add a new employee to the system.
-  - **Mark Attendance**: Record the attendance status for employees.
-  - **View Attendance**: Check attendance records and statistics.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This plugin is licensed under the GPLv2 or later.
-
-## Author
-
-**Mehak Singh**  
-[Your Email](mailto:codewithmehak@gmail.com)
+- Go to the "Attendance" menu in the WordPress admin dashboard.
+- Use the submenus to manage employees, mark attendance, and view records.
 
 ## Support
 
-For any questions or support regarding the plugin, please reach out via email or open an issue in the GitHub repository.
+If you find this plugin helpful, consider supporting my work:
+
+- [Become a Patron](https://patreon.com/user?u=83400255&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link) ![Patreon](https://img.shields.io/badge/Patreon-Support-red)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/themehakcodes/) ![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange)
+
+## License
+
+This plugin is licensed under the GPL2 license. See the `LICENSE` file for more details.
+
+## Changelog
+
+### 1.0
+- Initial release of the Attendance Plugin.
