@@ -69,3 +69,4 @@ function display_homepage() {
     </div>
     <?php
 }
+
